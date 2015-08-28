@@ -1,0 +1,55 @@
+body {
+  background-color: black
+}
+.insta {
+  height: 300px;
+  margin-bottom: 20px;
+  margin-left: -75px;
+  margin-right: -75px;  
+  background-image: url('./assets/instaTrip_v1.jpg');
+}
+
+.kraks {
+  height: 300px;
+  margin-bottom: 20px; 
+  margin-left: -75px;
+  margin-right: -75px;  
+  background-image: url('./assets/marketplace.jpg');
+  background-repeat: no-repeat;
+  background-position: 40% 40%;
+}
+.jumbotron {
+  margin: 10px;
+}
+
+.goodworld {
+  height: 300px;
+  margin-bottom: 20px; 
+  margin-left: -75px;
+  margin-right: -75px;  
+  background-image: url('./assets/goodworld.jpg'); 
+  background-position: 50% 90%;
+
+}
+
+.proj-btn {
+  margin-top: 175px;
+  margin-left: 10px;
+  background-color: black;
+  border: none;
+}
+
+#proj-btn-text {
+  width: 150px;
+}
+
+.proj-text {
+  color: black;
+  font-size: 16px;
+  color: white;
+  background-color: black;
+  position: inline;
+  margin-top: 25px;
+  margin-left: 2px;
+  font-family: Verdana;
+}
