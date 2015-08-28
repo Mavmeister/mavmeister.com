@@ -1,0 +1,45 @@
+body {
+  background-color: black
+}
+.insta {
+  height: 300px;
+  margin-bottom: 20px;
+  margin-left: -75px;
+  margin-right: -75px;  
+  background-color: red;
+}
+
+.kraks {
+  height: 300px;
+  margin-bottom: 20px; 
+  margin-left: -75px;
+  margin-right: -75px;  
+  background-color: blue;
+}
+.jumbotron {
+  margin: 10px;
+}
+
+.goodworld {
+  height: 300px;
+  margin-bottom: 20px; 
+  margin-left: -75px;
+  margin-right: -75px;  
+  background-color: green; 
+}
+
+.proj-btn {
+  margin-top: 175px;
+  margin-left: 10px;
+  background-color: black;
+  border: none;
+}
+
+#proj-btn-text {
+  width: 150px;
+}
+
+.proj-text {
+  color: white;
+  margin: 10px;
+}
