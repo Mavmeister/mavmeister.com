@@ -3,6 +3,7 @@ body {
 }
 .insta {
   height: 300px;
+  opacity: 0.5;
   margin-bottom: 20px;
   margin-left: -75px;
   margin-right: -75px;  
@@ -12,6 +13,7 @@ body {
 .kraks {
   height: 300px;
   margin-bottom: 20px; 
+  opacity: 0.5;
   margin-left: -75px;
   margin-right: -75px;  
   background-image: url('./assets/marketplace.jpg');
@@ -24,6 +26,7 @@ body {
 
 .goodworld {
   height: 300px;
+  opacity: 0.5;
   margin-bottom: 20px; 
   margin-left: -75px;
   margin-right: -75px;  
@@ -32,8 +35,13 @@ body {
 
 }
 
+.hover {
+  opacity: 1;
+}
+
 .proj-btn {
   margin-top: 175px;
+  opacity: 1;
   margin-left: 10px;
   background-color: black;
   border: none;
