@@ -6,7 +6,7 @@ body {
   margin-bottom: 20px;
   margin-left: -75px;
   margin-right: -75px;  
-  background-color: red;
+  background-image: url('./assets/instaTrip_v1.jpg');
 }
 
 .kraks {
@@ -14,7 +14,9 @@ body {
   margin-bottom: 20px; 
   margin-left: -75px;
   margin-right: -75px;  
-  background-color: blue;
+  background-image: url('./assets/marketplace.jpg');
+  background-repeat: no-repeat;
+  background-position: 40% 40%;
 }
 .jumbotron {
   margin: 10px;
@@ -25,7 +27,9 @@ body {
   margin-bottom: 20px; 
   margin-left: -75px;
   margin-right: -75px;  
-  background-color: green; 
+  background-image: url('./assets/goodworld.jpg'); 
+  background-position: 50% 90%;
+
 }
 
 .proj-btn {
@@ -40,6 +44,11 @@ body {
 }
 
 .proj-text {
+  color: black;
+  font-size: 18px;
   color: white;
-  margin: 10px;
+  background-color: black;
+  position: inline;
+  margin-top: 25px;
+  margin-left: 2px;
 }
