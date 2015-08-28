@@ -1,6 +1,12 @@
 body {
   background-color: black
 }
+
+.none {
+  color: white;
+  font-size: 20px;
+  text-align: center;
+}
 .insta {
   height: 300px;
   opacity: 0.5;
