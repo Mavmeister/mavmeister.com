@@ -1,6 +1,13 @@
 body {
   background-color: black
 }
+.gh {
+  display: inline-block;
+  float: right;
+}
+.jumbotron {
+  padding: 15px;
+}
 
 .none {
   color: white;
