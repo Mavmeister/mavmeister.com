@@ -109,3 +109,8 @@ h4 {
 #proj-btn-text {
   text-align: center;
 }
+
+#name {
+  text-decoration: none;
+  color: black;
+}
