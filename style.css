@@ -4,9 +4,36 @@ body {
 .gh {
   display: inline-block;
   float: right;
+  margin-top: -10px;
+  margin-right: -50px;
 }
 .jumbotron {
   padding: 15px;
+  background-color: white;
+  width: 100%;
+}
+
+h2 {
+  margin-top: 5px;
+  margin-left: -20px;
+  margin-bottom: 10px;
+}
+
+h4 {
+  margin-top: -5px;
+  margin-left: -20px;
+  margin-bottom: 10px;
+}
+
+#bio {
+  margin-bottom: 15px;
+  margin-left: -20px;
+  margin-top: -5px;
+}
+
+.linkedin {
+  margin-left: -20px;
+  padding: none;
 }
 
 .none {
