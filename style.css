@@ -1,12 +1,14 @@
 body {
   background-color: black
 }
+
 .gh {
   display: inline-block;
   float: right;
   margin-top: -10px;
   margin-right: -50px;
 }
+
 .jumbotron {
   padding: 15px;
   background-color: white;
@@ -43,8 +45,8 @@ h4 {
 }
 .insta {
   height: 300px;
-  opacity: 0.5;
-  margin-bottom: 20px;
+  opacity: 0.75;
+  margin-bottom: 30px;
   margin-left: -75px;
   margin-right: -75px;  
   background-image: url('./assets/instatrip.jpg');
@@ -52,8 +54,8 @@ h4 {
 
 .kraks {
   height: 300px;
-  margin-bottom: 20px; 
-  opacity: 0.5;
+  margin-bottom: 30px; 
+  opacity: 0.75;
   margin-left: -75px;
   margin-right: -75px;  
   background-image: url('./assets/marketplace.jpg');
@@ -66,8 +68,8 @@ h4 {
 
 .goodworld {
   height: 300px;
-  opacity: 0.5;
-  margin-bottom: 20px; 
+  opacity: 0.75;
+  margin-bottom: 30px; 
   margin-left: -75px;
   margin-right: -75px;  
   background-image: url('./assets/goodworld.jpg'); 
@@ -100,4 +102,8 @@ h4 {
   margin-top: 25px;
   margin-left: 0px;
   font-family: Verdana;
+}
+
+#proj-btn-text {
+  text-align: center;
 }
