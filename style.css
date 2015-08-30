@@ -25,17 +25,19 @@ h4 {
   margin-top: -5px;
   margin-left: -20px;
   margin-bottom: 10px;
+  display: inline;
 }
 
 #bio {
   margin-bottom: 15px;
+  padding-top: 10px;
   margin-left: -20px;
-  margin-top: -5px;
+  margin-top: 5px;
 }
 
 .linkedin {
-  margin-left: -20px;
   padding: none;
+  padding-botton: 10px;
 }
 
 .none {
