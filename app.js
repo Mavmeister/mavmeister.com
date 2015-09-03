@@ -9,9 +9,9 @@ $(".insta, .kraks, .goodworld").hover(
   }
 );
 
-$(".insta, .kraks, .goodworld").click(function(){
-  window.location = './pages/' + ($(this).attr("class").split(' ')[0]) + '.html'
-});
+// $(".insta, .kraks, .goodworld").click(function(){
+//   window.location = './pages/' + ($(this).attr("class").split(' ')[0]) + '.html'
+// });
 
 
 
